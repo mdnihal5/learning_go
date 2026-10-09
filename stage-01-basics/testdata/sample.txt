@@ -1,0 +1,4 @@
+go is fast and go is simple
+the compiler is strict and the compiler is fast
+a map holds keys and a slice holds items
+go is fun
